@@ -5,7 +5,7 @@ const LandingPage = () => {
     const { history } = useCommonHooks();
     return (
         <div>
-            Landingsside.
+            LANDING.
             <button onClick={() => history.push('/dine-aksjer')}>
                 Se dine aksjer
             </button>

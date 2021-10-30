@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "utbytte-c1fe9"
+  },
+  "targets": {
+    "utbytte-c1fe9": {
+      "hosting": {
+        "utbytte": [
+          "utbytte"
+        ]
+      }
+    }
   }
 }
