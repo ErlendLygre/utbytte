@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import { COLORS, mediaQuery } from '../styles/globalStyles';
-import useWindowSize from '../utils/useWindowSize';
 
 const LogoWrapper = styled.h1`
     font-family: 'Quicksand', sans-serif;
